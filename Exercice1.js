@@ -9,6 +9,16 @@ At the end you should see this outcome:
 */
 
 
+/******************************************************************
+Correcteur: Yannick GOUGUIA
+
+VOUS MIS LE REPO GITHUB DU DAILY CHALLENGE A LA PLACE DE L'EXERCICE XP
+
+Merci de corriger cela
+
+******************************************************************/
+
+
 /* Création de variable */
 const fruit =["Banana","Apples","oranges","Blueberries"];
 console.log(fruit);
